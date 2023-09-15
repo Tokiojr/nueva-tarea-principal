@@ -37,13 +37,40 @@ padding-top: 10px;
     float:left;
     border-radius:10px;
     color:white;
+    border-radius: 5px;
+    border: 1px solid var(--3, #D10ED1);
 }
+.botones4{
+    border-radius: 10px;
+    border: 1px solid var(--3, #D10ED1);
+    background-color: #090823;
+    text-decoration: none;
+    padding:10px;
+    float:left;
+    color:white;
+}
+
 .card{
 background-color: #090823;
 }
+
+.play{
+left: 45%;
+top: 45%;
+}
+
+
 .color01{
     background: rgb(240, 6, 192);
     background: linear-gradient(90deg, rgba(240, 6, 192, 1) 35%, rgba(52, 208, 240, 0.9866071428571429) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color:transparent;
+}
+.final{
+background-color:#090823;
+
+}
+ul{
+list-style: none;
+
 }
