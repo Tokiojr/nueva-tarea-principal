@@ -1,0 +1,49 @@
+.button{
+ background: linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%);
+}
+.morado{
+top: 50px;
+}
+.imagen{
+width: 100%;
+}
+.padding{
+padding: 0 10%;
+}
+.espacio{
+padding-top: 10px;
+}
+.botones{
+    text-decoration: none;
+    background: linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%);
+    padding:10px;
+    float:left;
+    border-radius:10px;
+    color:white;
+}
+
+.botones2{
+    text-decoration: none;
+    background: linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%);
+    padding:10px;
+    float:left;
+    border-radius:10px;
+    color:white;
+}
+.botones3{
+    text-decoration: none;
+    background-color: black;
+    padding:10px;
+    float:left;
+    border-radius:10px;
+    color:white;
+}
+.card{
+background-color: #090823;
+}
+.color01{
+    background: rgb(240, 6, 192);
+    background: linear-gradient(90deg, rgba(240, 6, 192, 1) 35%, rgba(52, 208, 240, 0.9866071428571429) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+}
